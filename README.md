@@ -17,7 +17,7 @@ The framework is tightly integrated into `pytest`.  Therefore, to use it
 effectively, you should know the basics of `pytest` first. Take a look at the 
 [introductory material](https://docs.pytest.org/en/latest/getting-started.html).
 
-## Usage
+## Usage123
 Red Queen is a framework for benchmarking quantum compilation algorithms. Since
 it was not designed as a package, there is no notion of installation. Hence, you
 must clone this repository to use it:
